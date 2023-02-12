@@ -1,5 +1,4 @@
 discord
 python-dotenv
-mysql-connnector
 interactions
 
