@@ -1,4 +1,5 @@
-python
 discord
 python-dotenv
+mysql-connnector
 interactions
+worker :python banana_bot.py
